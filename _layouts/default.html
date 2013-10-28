@@ -6,7 +6,7 @@
   <meta charset="utf-8">
 
 
-        <title>{{ page.title }}</title>
+        <title>{% if page.title %}{{ page.title }} &middot; {% endif %}</title>
 	<meta name="author" content="Rully Long Field">
 	<meta name="description" content="Opini Blogger Newbie." />
   	<meta name="keywords" content="cappucino21, opini blogger newbie, blogazine21, rully long field" />
@@ -23,7 +23,7 @@
 
     <header class="masthead">
       <div class="masthead-inner">
-        <h1>cappucino</h1>
+        <h2>cappucino</h2>
         <p class="lead">Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>. Made by <a href="https://twitter.com/longfield21" target="_blank">@longfield21</a>.</p>
 
         <div class="colophon">
