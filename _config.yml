@@ -1,7 +1,7 @@
 # Jekyll config
 permalink: /:year/:month/:day/:title
 pygments: true
-paginate: 1
+paginate: 10
 markdown: rdiscount
 
 # site-wide variables
