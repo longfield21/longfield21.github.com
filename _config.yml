@@ -1,0 +1,9 @@
+name: cappucino21
+description: opini blogger newbie
+
+url: http://localhost:4000
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
