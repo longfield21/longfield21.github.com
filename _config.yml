@@ -1,4 +1,9 @@
-markdown:     rdiscount
-permalink:    pretty
-pygments:     true
-paginate:     5
+# Jekyll config
+permalink: /:year/:month/:day/:title
+pygments: true
+paginate: 10
+markdown: rdiscount
+
+# site-wide variables
+name: longfield21
+url: http://longfield21.github.io
