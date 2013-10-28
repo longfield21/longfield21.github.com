@@ -1,9 +1,9 @@
-name: cappucino21
-description: opini blogger newbie
-
-url: http://longfield21.github.io
-
-paginate: 10
-markdown: rdiscount
+# Jekyll config
+permalink: /:year/:month/:day/:title
 pygments: true
-permalink: /:title/
+paginate: 1
+markdown: rdiscount
+
+# site-wide variables
+name: longfield21
+url: http://longfield21.github.io
