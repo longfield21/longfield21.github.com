@@ -6,4 +6,6 @@ url: http://longfield21.github.io
 paginate: 10
 
 markdown: rdiscount
-permalink: pretty
+markdown: rdiscount
+pygments: true
+permalink: /:title/
