@@ -1,30 +1,28 @@
-<!DOCTYPE html>
-<!--[if lt IE 9]><html class="no-js ie" lang="en"><![endif]-->
+<!doctype html>
+<!--[if IE 8]><html class="no-js ie8" lang="en"><![endif]-->
 <!--[if IE 9]><html class="no-js ie9" lang="en"><![endif]-->
-<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
   <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <meta name="author" content="sirBrad" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/assets/css/index.css" />
+</head>
+<body>
+  <div class="contain">
 
+    {% include header.html %}
 
-        <title>{{ page.title }}</title>
-	<meta name="author" content="Rully Long Field">
-	<meta name="description" content="Opini Blogger Newbie." />
-  	<meta name="keywords" content="cappucino21, opini blogger newbie, blogazine21, rully long field" />
-  	<meta name="viewport" content="width=device-width,initial-scale=1">
+    <div class="site-body" role="main">
+      {{ content }}
+    </div>
 
-        <link rel="stylesheet" href="/css/all.css">
-	<script src="/js/libs/modernizr-2.0.6.min.js"></script>
-    </head>
-    <body>
+    {% include footer.html %}
+    {% include site-credits.html %}
 
-	<article>
+  </div>
 
-        	{{ content }}
-
-    		<p><a href="/" class="highlight">&larr;  index</a></p>
-  	</article>
-  	
-  <script src="/js/scripts.js"></script>
-
+  {% include google_analytics.html %}
 </body>
 </html>

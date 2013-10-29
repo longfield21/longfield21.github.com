@@ -1,9 +1,6 @@
-# Jekyll config
-permalink: /:year/:month/:day/:title
-pygments: true
-paginate: 10
+auto: true
+server: true
 markdown: rdiscount
-
-# site-wide variables
-name: longfield21
-url: http://longfield21.github.io
+pygments: true
+permalink: /:title
+exclude: [ Rakefile, README.md, watch.sh ]

@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
 
-{{ content }}
+<article class="post">
+  <header class="post__head">
+    <time class="post__date" datetime="2012-08-17" pubdate="">{{ page.date | date_to_long_string }}</time>
+    <h1 class="post__title">{{ page.title }}</h1>
+  </header>
+  {{ content }}
+</article>

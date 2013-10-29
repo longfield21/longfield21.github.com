@@ -1,13 +1,18 @@
 ---
 layout: default
-title:  longfield21
+title: %site-name
 ---
 
+{% for post in site.posts %}
 
-  <h1>Table of Contents</h1>
-  <ol>
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ol>
+  <article class="post">
+    <header>
+      <time class="post__date" datetime="2012-08-17" pubdate="">{{ post.date | date_to_long_string }}</time>
+      <h1 class="post__title">
+        <a href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">{{ post.title }}</a>
+      </h1>
+    </header>
+    {{ post.content }}
+  </article>
 
+{% endfor %}
