@@ -120,6 +120,7 @@ table {
   line-height: 1.4;
   font-weight: bold;
   -webkit-font-smoothing: antialiased;
+  text-transform: uppercase;
 }
 
 h6, .h6 {
