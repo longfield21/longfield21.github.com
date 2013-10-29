@@ -1,6 +1,6 @@
 # longfield21.github.io
 
 
-#### hello 
+#### hello IUUHH!
 
-This is my blog's powered by[Jekyll](https://github.com/mojombo/jekyll) 
+blog ini di persembahkan oleh [Jekyll](https://github.com/mojombo/jekyll) ke hadapan jones jones yang lagi nangkring di layar komputer
