@@ -57,7 +57,9 @@ a {
 /* Addresses outline displayed oddly in Chrome */
 a:focus {
   outline: thin dotted;
-  background: #362121;
+  border-color: rgb(0,0,0);
+  background: #fffccf;
+  color: rgb(0,0,0);
 }
 
 /* Improves readability when focused and also mouse hovered in all browsers */
