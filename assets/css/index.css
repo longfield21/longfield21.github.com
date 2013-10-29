@@ -26,7 +26,7 @@ html {
 
 body {
   background-color: white;
-  font-family: "Calisto MT, sans-serif;
+  font-family: 'CharisSILRegular';
   font-size: 16px;
   line-height: 1.6;
   color: #3e3e3e;
@@ -692,3 +692,14 @@ p, blockquote, ul, ol, dl, menu, pre {
   font-size: 0.75em;
   margin-bottom: 0;
 }
+
+@font-face{
+    font-family: 'CharisSILRegular';
+    src:url('../font/CCharisSILR-webfont/harisSILR-webfont.eot');
+    src:url('../font/CharisSILR-webfont/CharisSILR-webfont.eot?#iefix') format('embedded-opentype'),
+        url('../font/CharisSILR-webfont/CharisSILR-webfont.woff') format('woff'),
+        url('../font/CharisSILR-webfont/CharisSILR-webfont.ttf') format('truetype'),
+        url('../font/CharisSILR-webfont/CharisSILR-webfont.svg#CharisSILRegular') format('svg');
+    font-weight:normal;
+    font-style:normal;
+	}
