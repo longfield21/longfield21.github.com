@@ -1,13 +1,12 @@
-
 task :site_name do
-  STDOUT.puts "Yo champ, what do you want to name your blog?"
+  STDOUT.puts "longfield21"
   input = STDIN.gets.strip
 
   update_content(
     '_includes/header.html',
     '%site-name',
     input,
-    "awesome name!"
+    "longfield21"
   )
 
   update_content(
@@ -39,7 +38,7 @@ task :site_strap do
 end
 
 task :about do
-  STDOUT.puts "Ok, tell me about yourself in a few paragraphs..."
+  STDOUT.puts "Nama saya Rully, Blogger dari kota kecil di propinsi Sumatra Barat."
   input = STDIN.gets.strip
 
   update_content(
@@ -52,7 +51,7 @@ task :about do
 end
 
 task :twitter do
-  STDOUT.puts "What is your twitter username?"
+  STDOUT.puts "longfield21"
   input = STDIN.gets.strip
 
   update_content(
