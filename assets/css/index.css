@@ -660,7 +660,7 @@ p, blockquote, ul, ol, dl, menu, pre {
   color: #3e3e3e;
 }
 .post__title a:hover, .post__title a:focus, .post__title a:active {
-  color: #c7e3f0;
+  color: #3e3e3e;
 }
 
 .post__date {
