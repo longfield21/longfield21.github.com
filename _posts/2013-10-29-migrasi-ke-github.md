@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migrasi ke Github
-date: 2013-10-30
+date: 2013-10-29
 ---
 
 ###Intro######
