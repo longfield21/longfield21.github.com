@@ -15,7 +15,7 @@ nav, section {
 }
 
 html {
-  border: 0.5em solid #2b1414;
+  border: 0.5em solid #3f5a8c;
   min-height: 100%;
 }
 @media only screen and (min-width: 44em) {
@@ -624,7 +624,7 @@ p, blockquote, ul, ol, dl, menu, pre {
 /* Header
    ========================================================================== */
 .site-head {
-  border-bottom: 0.25em solid #2b1414;
+  border-bottom: 0.25em solid #3f5a8c;
   padding-bottom: 1.5em;
 }
 
@@ -653,7 +653,7 @@ p, blockquote, ul, ol, dl, menu, pre {
   padding-top: 2.75em;
 }
 .post + .post {
-  border-top: 0.25em solid #2b1414;
+  border-top: 0.25em solid #3f5a8c;
 }
 
 .post__title a {
