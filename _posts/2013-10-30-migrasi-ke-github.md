@@ -7,12 +7,12 @@ date: 2013-10-30
 ###Intro######
 Alasan saya berganti mesin tidak bisa dibilang tidak ada. 
 
-*Pertama mengganti suasa,
-*kedua menghilangkan kejenuhan karena tidak mengetik kode maupun beropini,
-*menguji postingan pertama setelah postingan hello world,
-*menguji sedikit pengetahuan tentang syntax markdown, (menguji order listing)
-*karena bingung dan sudah bosan bermain game :P,
-*dll
+* Pertama mengganti suasa,
+* kedua menghilangkan kejenuhan karena tidak mengetik kode maupun beropini,
+* menguji postingan pertama setelah postingan hello world,
+* menguji sedikit pengetahuan tentang syntax markdown, (menguji listing)
+* karena bingung dan sudah bosan bermain game :P,
+* dll
 
 ###Latar Belakang######
 
