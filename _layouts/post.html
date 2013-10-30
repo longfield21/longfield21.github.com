@@ -7,6 +7,9 @@ layout: default
     <time class="post__date" datetime="{{ page.date | date_to_long_string }}" pubdate="">{{ page.date | date_to_long_string }}</time>
     <h1 class="post__title">{{ page.title }}</h1>
   </header>
+
+{% if single_post %}
+
   {{ content }}
 
 
