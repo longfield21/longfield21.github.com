@@ -3,4 +3,5 @@ server: true
 markdown: rdiscount
 pygments: true
 permalink: /:title
+paginate: 1
 exclude: [ Rakefile, README.md, watch.sh ]
