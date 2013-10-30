@@ -36,13 +36,13 @@ body {
 }
 
 ::selection {
-  background-color: #de6439;
+  background-color: #03204d;
   color: #fff;
   text-shadow: none;
 }
 
 ::-moz-selection {
-  background-color: #de6439;
+  background-color: #03204d;
   color: #fff;
   text-shadow: none;
 }
@@ -50,7 +50,7 @@ body {
 /* Links
  ========================================================================== */
 a {
-  color: #de6439;
+  color: #03204d;
   text-decoration: none;
 }
 
@@ -657,10 +657,10 @@ p, blockquote, ul, ol, dl, menu, pre {
 }
 
 .post__title a {
-  color: #3e3e3e;
+  color: #03204d;
 }
 .post__title a:hover, .post__title a:focus, .post__title a:active {
-  color: #3e3e3e;
+  color: #00001f;
 }
 
 .post__date {
