@@ -179,6 +179,10 @@ p, blockquote, ul, ol, dl, menu, pre {
   margin: 0 0 1.6em;
 }
 
+.new span {
+ cursor: not-allowed;
+}
+
 .highlight {
   background: #ffffff;
 }
