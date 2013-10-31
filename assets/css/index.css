@@ -198,22 +198,9 @@ span.old {
 }
 
 .pull-right {
-  float: right !important;
+  float: left !important;
 }
 
-span.new,
-span.old {
-  color: #333;b
-  ackground-color: #fff;
-  border-color: #ccc;
-  }
- 
-span.new:hover,
-span.old:hover {
-    color: #333;
-    background-color: #ebebeb;
-    border-color: #adadad
-  }
 
 .highlight {
   background: #ffffff;
