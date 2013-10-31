@@ -26,7 +26,7 @@ html {
 
 body {
   background-color: white;
-  border: #112e5c solid 16px;
+  border: #112e5c solid 8px;
   font-family: 'CharisSILRegular';
   font-size: 16px;
   line-height: 1.6;
@@ -180,8 +180,9 @@ p, blockquote, ul, ol, dl, menu, pre {
   margin: 0 0 1.6em;
 }
 
-#pagination nav, .new span {
- cursor: not-allowed;
+span.new,
+nav#pagination {
+  cursor: not-allowed;
 }
 
 .highlight {
