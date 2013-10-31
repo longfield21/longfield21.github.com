@@ -186,22 +186,6 @@ span#pagination {
   cursor: not-allowed;
 }
 
-#pagination {
-  display: inline;
-}
-span.new {
-  float: left !important;
-}
-
-span.old {
-  float: right !important;
-}
-
-.pull-right {
-  float: left !important;
-}
-
-
 .highlight {
   background: #ffffff;
 }
