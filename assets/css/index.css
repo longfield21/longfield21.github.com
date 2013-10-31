@@ -660,6 +660,15 @@ span#pagination {
   border: 1px solid #ccc:
 }
 
+.about {
+  padding: 1em 
+}
+
+.about p{
+  display: inline;
+  padding:0;
+}
+
 /* Post
    ========================================================================== */
 .post {
