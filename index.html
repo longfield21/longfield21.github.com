@@ -7,7 +7,7 @@ title: longfield21
 
   <article class="post">
     <header>
-      <time class="post__date" datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+      <time class="post__date" datetime="{{ post.date | date_to_long_string }}" pubdate="">{{ post.date | date_to_long_string }}</time>
       <h1 class="post__title">
         <a href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">{{ post.title }}</a>
       </h1>
