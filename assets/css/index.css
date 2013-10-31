@@ -181,6 +181,7 @@ p, blockquote, ul, ol, dl, menu, pre {
 }
 
 span.new,
+span.old,
 span#pagination {
   cursor: not-allowed;
 }
