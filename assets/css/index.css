@@ -186,6 +186,22 @@ span#pagination {
   cursor: not-allowed;
 }
 
+#pagination {
+  display: inline;
+}
+span.new {
+  float: left !important;
+}
+
+span.old {
+  float: right !important;
+}
+
+.pull-right {
+  float: right !important;
+}
+}
+
 .highlight {
   background: #ffffff;
 }
