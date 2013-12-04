@@ -1,4 +1,4 @@
-.pace {
+body {
   -webkit-pointer-events: none;
   pointer-events: none;
   -webkit-user-select: none;
@@ -6,7 +6,7 @@
   user-select: none;
 }
 
-.pace .pace-activity {
+body .pace-activity {
   display: block;
   position: fixed;
   z-index: 2000;
@@ -27,8 +27,8 @@
   transform: translateX(50%) translateY(-50%) rotate(45deg);
 }
 
-.pace .pace-activity::before,
-.pace .pace-activity::after {
+body .pace-activity::before,
+body .pace-activity::after {
     position: absolute;
     bottom: 30px;
     left: 50%;
@@ -38,7 +38,7 @@
     content: '';
 }
 
-.pace .pace-activity::before {
+body .pace-activity::before {
     margin-left: -40px;
     width: 80px;
     height: 80px;
@@ -48,7 +48,7 @@
     animation: pace-rotation 3s linear infinite;
 }
 
-.pace .pace-activity::after {
+body .pace-activity::after {
     bottom: 50px;
     margin-left: -20px;
     width: 40px;
