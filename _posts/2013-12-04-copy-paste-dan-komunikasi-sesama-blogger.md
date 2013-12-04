@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ""
-date: {}
+title: Copy Paste & Komunikasi Sesama Blogger
+date: 2013-12-04
 published: true
 ---
 
