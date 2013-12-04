@@ -2,7 +2,6 @@
 layout: post
 title: Copy Paste & Komunikasi Sesama Blogger
 date: 2013-12-04
-published: true
 ---
 
 Copy Paste secara bukan harfiah tetapi blogeriah, bukan blogger yang meriah tetapi blogger yang lari setelah mengopy artikel atau design orang, jiaaah. Tanpa menampilkan sumber dari empunya biasanya anda kesal. Design atau artikel yang anda buat diambil secara cuma cuma tanpa berhadiah gelas cantik. Yang menjadi pertanyaan bagaimana anda menyikapi hal ini?.
