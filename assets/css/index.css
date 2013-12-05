@@ -736,12 +736,12 @@ span#pagination {
   z-index: 2000;
   top: 0;
   left: 0;
-  height: 2px;
+  height: 5px;
 
-  -webkit-transition: width 1s;
-  -moz-transition: width 1s;
-  -o-transition: width 1s;
-  transition: width 1s;
+  -webkit-transition: width 3s;
+  -moz-transition: width 3s;
+  -o-transition: width 3s;
+  transition: width 3s;
 }
 
 .pace-inactive {
