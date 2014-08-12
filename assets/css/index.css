@@ -45,7 +45,7 @@ p, blockquote, ul, ol, dl, menu, pre{margin:0 0 1.6em;}
 span.new,
 span.old,
 span#pagination{cursor:not-allowed;}
-#pagination{padding:10px 30px; background-color:#3f5a8c;border-bottom:none}
+#pagination{padding:10px 30px; background-color:#3f5a8c;border-bottom:none;text-align:center;}
 .highlight{background:#ffffff;}
 .highlight .c{color:#999988;font-style:italic;}
 .highlight .err{color:#a61717;background-color:#e3d2d2;}
