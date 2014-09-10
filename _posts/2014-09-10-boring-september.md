@@ -4,6 +4,4 @@ title: Boring September
 date: 2014-09-10
 ---
 
-## Boring September
-
-Boring September
+Boring September. Waht i'm gonna do? What should i do?
