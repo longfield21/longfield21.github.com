@@ -1,6 +1,0 @@
----
-published: true
----
-
-
-Sudah beberapa tahun. _By the way_, perbincangan apa yang menarik sekarang ini untuk dibahas?. Masalah tulis menulis, desain mendesain... ? Sudah terlalu mainstream dan tidak ada yang perlu dibahas. Akhirnya, Hiatus lagi.
