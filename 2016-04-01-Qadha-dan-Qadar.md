@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Qadha dan Qadar
-date: 2016-4-1
+date: {}
+published: true
 ---
+
 
 Dibalik Qadha dan Qadar, Allah selalu memberikan kabar gembira kepada hambanya yang senantiasa bersabar
