@@ -127,7 +127,6 @@ span#pagination{cursor:not-allowed;}
 .island{padding:1em;word-wrap:break-word;border-radius:.2em;}
 @media only screen and (min-width:44em){.island{padding:1.5em;}
 }
-body {font-size:5px;}
 .island p:last-of-type{margin-bottom:0;}
 .media{display:block;}
 .media_img{float:left;margin-right:1em;}
